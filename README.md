@@ -1,1 +1,1 @@
-# smart-elephant-detection
+# Elephant-Eye
